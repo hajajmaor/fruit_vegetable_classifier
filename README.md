@@ -4,10 +4,6 @@
 
 ---
 
-### Android users can download the apk inside the directory `apk_ready_to_use` and install on their devices.
-
----
-
 ## Getting Started
 
 ```
